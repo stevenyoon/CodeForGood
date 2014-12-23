@@ -1,4 +1,4 @@
-Participated in J.P. Morgan’s Code for Good 2014 with team members: Abhishek Sharma, Justin Barash, and Steven Yoon.
+Participated in J.P. Morgan’s Code for Good 2014 with team members: Abhishek Sharma, Justin Barash, and Connie Shi.
 
 Used Java, JDBC API, JavaScript, PHP, MAMP, Amazon Web Services EC2 (Tomcat), and Thesaurus API
 
